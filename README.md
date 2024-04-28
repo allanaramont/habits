@@ -41,8 +41,8 @@ This project was developed with the following technologies:
 First clone this repository:
 
 ```bash
-$ git clone https://github.com/desenvbr/nlw-setup.git
-$ cd nlw-setup
+$ git clone https://github.com/desenvbr/habits.git
+$ cd habits
 ```
 
 ### Server
