@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # NLW Setup
 
 ![cover](./.github/cover.png)
@@ -39,7 +41,7 @@ This project was developed with the following technologies:
 First clone this repository:
 
 ```bash
-$ git clone https://github.com/Sup3r-Us3r/nlw-setup.git
+$ git clone https://github.com/desenvbr/nlw-setup.git
 $ cd nlw-setup
 ```
 
